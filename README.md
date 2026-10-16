@@ -25,12 +25,9 @@ Você pode executar o notebook no **Google Colab** ou no **Jupyter Notebook loca
 ### Opção 1: Executar no Google Colab
 
 1. Acesse o [Google Colab](https://colab.research.google.com/).
-2. Na janela que abrir, selecione a aba **GitHub**.
+2. Clique em **Arquivo**, **Abrir notebook** e selecione a aba **GitHub**.
 3. Cole o link deste repositório e clique no arquivo **`desafio-final.ipynb`**.
-4. Certifique-se de que o arquivo `transacoes.csv` está acessível:
-   - Clique no ícone de **pasta (📁)** na barra lateral esquerda.
-   - Caso o arquivo não apareça na lista, clique no ícone de **upload** e selecione o `transacoes.csv`.
-5. No menu superior, vá em **Ambiente de execução** → **Reiniciar e executar tudo** (ou use o atalho `Ctrl + F9`).
+4. No menu superior, vá em **Ambiente de execução** → **Reiniciar e executar tudo** (ou use o atalho `Ctrl + F9`).
 
 ---
 
