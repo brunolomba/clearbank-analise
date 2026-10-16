@@ -39,4 +39,4 @@ Você pode executar o notebook no **Google Colab** ou no **Jupyter Notebook loca
 
 ## O que o notebook gera
 
-Ele gera os dados organizados em: relatorio.json, analise_pandas.py e um gráfico.png. (além dos resultados no terminal dentro do código).
+Ele gera os dados organizados em: transacoes.csv, relatorio.json, analise_pandas.py e um gráfico.png. (além dos resultados no terminal dentro do código).
